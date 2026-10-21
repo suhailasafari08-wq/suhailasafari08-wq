@@ -3,4 +3,4 @@
 <h1 > I am Suhaila Safari & Code Lady❤</h1>
 </div>
 <h3>Languages </h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss"?
+<img src="[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)>
