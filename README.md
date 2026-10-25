@@ -4,48 +4,37 @@
 </div>
 
 
-<h1 align="center">Hey There! 👋</h1>
+
+<h1 align="center">
+  🎀 𝓗𝓮𝔂, 𝓘'𝓶 𝓢𝓾𝓱𝓪𝓲𝓵𝓪! 🎀
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Pretty+Girl%2C+Powerful+Code+%F0%9F%92%97;Dream+Big%2C+Code+Bigger+%E2%9C%A8;She+Codes+Her+Own+Future+%F0%9F%8E%80" alt="Cute coding animation" />
+</p>
+
+<p align="center">
+  💗 🎀 🦋 ✨ 🌷 ✨ 🦋 🎀 💗
+</p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=39FF14&center=true&vCenter=true&width=435&lines=Aspiring+Front-End+Developer;HTML+%7C+CSS;Building+My+Future+One+Project+at+a+Time" alt="Typing animation" />
+  ♡ My Coding Skills ♡
 </h3>
 
 <p align="center">
-  Passionate about creating modern, responsive,
-  and user-friendly websites.
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php&theme=dark" alt="HTML CSS JavaScript Tailwind PHP" />
 </p>
-
----
-
-### 👩‍💻 About Me
-
-- 🌱 Currently learning HTML & CSS professionally
-- 🎯 Working toward becoming a Full-Stack Developer
-- 🎨 Interested in modern UI design and animations
-- 💚 I love learning new things and building projects
-
-### 🛠️ My Skills
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=dark" alt="My skills" />
-</p>
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=suhailasafari08-wq&show_icons=true&theme=transparent&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/She%20Codes-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="She Codes" />
+  <img src="https://img.shields.io/badge/Dream%20Big-39FF14?style=for-the-badge&labelColor=0d1117" alt="Dream Big" />
 </p>
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/suhailasafari08-wq">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39ff14" alt="GitHub" />
-  </a>
-</p>
-
----
 
 <p align="center">
-  <i>Learning today, building tomorrow. 💚</i>
+  🌸 <i>A girl with dreams, a heart full of creativity, and a mind full of code.</i> 🌸
 </p>
+
+<h3 align="center">
+  💕 𝓒𝓸𝓭𝓮 𝓵𝓲𝓴𝓮 𝓪 𝓰𝓲𝓻𝓵, 𝓭𝓻𝓮𝓪𝓶 𝓵𝓲𝓴𝓮 𝓪 𝓺𝓾𝓮𝓮𝓷 👑
+</h3>
+
