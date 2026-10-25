@@ -1,5 +1,5 @@
 <div align=" center">
-<img src="./Queen Logo.png" alt="./logo.png" width="400px">
+<img src="./Queenlogo.png" alt="./logo.png" width="400px">
 <h1 > I am Suhaila Safari & Code Lady❤</h1>
 </div>
 
