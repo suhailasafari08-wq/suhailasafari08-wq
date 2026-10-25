@@ -1,12 +1,12 @@
 <div align=" center">
 <img src="./Queenlogo.png" alt="./logo.png" width="400px">
-<h1 > I am Suhaila Safari & Code Lady❤</h1>
+
 </div>
 
 
 
 <h1 align="center">
-  🎀 𝓗𝓮𝔂, 𝓘'𝓶 𝓢𝓾𝓱𝓪𝓲𝓵𝓪! 🎀
+  🎀 𝓗𝓮𝔂, 𝓘'𝓶 S𝓾𝓱𝓪𝓲𝓵𝓪 Safari & Code Lady🎀
 </h1>
 
 <p align="center">
